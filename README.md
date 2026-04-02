@@ -66,6 +66,16 @@ Jupyter Notebook
 
 ---
 
+<img width="1041" height="555" alt="image" src="https://github.com/user-attachments/assets/ade62a7c-30f0-4ba1-b153-56c1a6d7c6b5" />
+<img width="1028" height="549" alt="image" src="https://github.com/user-attachments/assets/35449f38-0413-4980-b912-4f2e06dae07c" />
+<img width="842" height="456" alt="image" src="https://github.com/user-attachments/assets/e873ff26-cc63-4f10-a76f-29e07640081a" />
+<img width="910" height="454" alt="image" src="https://github.com/user-attachments/assets/6087f880-90c4-491d-b41f-ccdf17158744" />
+<img width="772" height="447" alt="image" src="https://github.com/user-attachments/assets/47241a4a-8a86-407f-ad40-61ddf691d2c3" />
+<img width="1064" height="561" alt="image" src="https://github.com/user-attachments/assets/d88d489f-2b9e-4d62-97a6-bf2cd9e4f594" />
+
+
+---
+
 ## Key Insights
 
 • Infrastructure and waste-related issues generate the highest complaints  
